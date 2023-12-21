@@ -1,7 +1,5 @@
 # sms_simulation
 
-Exercise:
-
 SMS Simulation Exercise
 
 The objective is to simulate sending a large number of SMS alerts, like for an emergency alert service.
