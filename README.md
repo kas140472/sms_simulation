@@ -43,3 +43,5 @@ To ensure data integrity, I have employed a mutex lock called progress_lock to p
 Output:
 
 Please find below the output generated when running the program in the Ubuntu 32-bit terminal:
+
+![ouput_img](https://github.com/kas140472/sms_simulation/blob/main/ss1.png)
